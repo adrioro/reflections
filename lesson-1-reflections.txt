@@ -1,3 +1,5 @@
+Lesson 1
+
 How did viewing a diff between two versions of a file help you see the bug that
 was introduced?
 
@@ -46,11 +48,9 @@ How might using version control make you more confident to make changes that cou
 
 Because I can check out old versions of the file.
 
-Now that you have your workspace set up, what do you want to try using Git for?
+Now that you have your workspace set up, what do you want to try using Git for
 
 For the Full Stack course material
-
-
 
 
 
