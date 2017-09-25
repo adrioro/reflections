@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+When we innitialize a repo we convert an existing, unversioned project to a Git repository or initialize a new, empty repository.
