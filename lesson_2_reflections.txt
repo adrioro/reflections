@@ -1,2 +1,7 @@
 What happens when you initialize a repository? Why do you need to do it?
 When we innitialize a repo we convert an existing, unversioned project to a Git repository or initialize a new, empty repository.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+In the staging area files are changed but not commited yet, it is an stage before the commit.
+The working directory is a directory of hierarchical file system.
+The repository stores files as they change (commit objects & set of references to commit objects or HEADS)
